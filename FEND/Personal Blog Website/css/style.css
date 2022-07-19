@@ -1,0 +1,16 @@
+@import "site-head.css";
+@import "site-main.css";
+@import "site-foot.css";
+@import "blog.css";
+
+html {
+    font-family: "Roboto", sans-serif;;
+    color: white;
+    background-color: #222
+}
+
+body {
+    display: grid;
+    grid-template-columns: 100%;
+    margin: 0;
+}
